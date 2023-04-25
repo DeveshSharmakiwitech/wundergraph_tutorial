@@ -1,0 +1,8 @@
+mutation deleteUser {
+	deleteUser  {
+		id
+    	name
+        email
+		password
+	}
+}
